@@ -11,5 +11,4 @@ group :development, :test do
   gem "netrc"
   gem "git", github: "hone/ruby-git", branch: "master"
   gem 'json', '~> 2.0.2'
-  gem 'ruby', '~> 2.2.6'
 end
