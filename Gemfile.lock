@@ -63,7 +63,7 @@ GEM
     tzinfo (0.3.52)
 
 PLATFORMS
-  ruby
+  ruby '2.2.6'
 
 DEPENDENCIES
   excon
